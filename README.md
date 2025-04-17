@@ -8,22 +8,15 @@ Features:
 - ✅ **Unresponsiveness Monitoring** based on posture, gaze fixation, and physical inactivity
 - ✅ **Stroke Symptom Detection** through facial asymmetry, drooping eyelids/mouth, and abnormal motion
 - ✅ Real-time **alert system** (audio/visual)
-- ✅ Modular architecture for camera, sensor, and model integration
 
-Technologies Used:
+Purpose: 
+-Early detection of medical emergencies: stroke, seizures, diabetic comas
+-Security net for long haul truck drivers or overworked first responders
 
--Python	The language your program is written in
+Disclaimer:
+This project is for educational purposes only. Do not use as a vehicle safety mechanism or medical safety device.
 
--OpenCV	Lets the program “see” with a webcam
-
--MediaPipe / Dlib	Finds eyes, face, mouth, etc.
-
--TensorFlow/PyTorch	Runs the AI that detects problems
-
--Scikit-learn	Learns patterns like blinking or movement
-
--Flask/Streamlit	Shows alerts and video in a web dashboard
-
--GPIO/Arduino	Adds real-world alerts like buzzers/lights
+Future Improvements:
+I would like to incorporate smart device integration for vital sign monitoring and real time ECG integration. Once an emergency is detected or activated this data could be shared with first responders within a radius via cloud network as well. 
 
 
