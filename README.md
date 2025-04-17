@@ -13,11 +13,17 @@ Features:
 Technologies Used:
 
 -Python	The language your program is written in
+
 -OpenCV	Lets the program “see” with a webcam
+
 -MediaPipe / Dlib	Finds eyes, face, mouth, etc.
+
 -TensorFlow/PyTorch	Runs the AI that detects problems
+
 -Scikit-learn	Learns patterns like blinking or movement
+
 -Flask/Streamlit	Shows alerts and video in a web dashboard
+
 -GPIO/Arduino	Adds real-world alerts like buzzers/lights
 
 
