@@ -10,13 +10,22 @@ Features:
 - ✅ Real-time **alert system** (audio/visual)
 
 Purpose: 
--Early detection of medical emergencies: stroke, seizures, diabetic comas
--Security net for long haul truck drivers or overworked first responders
+
+- Early detection of medical emergencies: stroke, seizures, diabetic comas
+
+- Security net for long haul truck drivers or overworked first responders
+
 
 Disclaimer:
+
 This project is for educational purposes only. Do not use as a vehicle safety mechanism or medical safety device.
 
+
 Future Improvements:
+
 I would like to incorporate smart device integration for vital sign monitoring and real time ECG integration. Once an emergency is detected or activated this data could be shared with first responders within a radius via cloud network as well. 
+
+
+Maintained by Purity Varist, KSUMSHMI Graduate Program
 
 
