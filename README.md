@@ -46,10 +46,9 @@ Follow the terminal prompts to test each feature.
 
 ##  Face & Eye Detection (Optional Feature that I'm still working through)
 
-To test real-time webcam detection:
 
 1. Ensure a webcam is available.
-2. Download Haar Cascades and place in a `models/` folder:
+2. Download Haar Cascades
    - [haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
    - [haarcascade_eye.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml)
 
@@ -74,7 +73,7 @@ DriveGuard360/
 ├── drowsiness_check.py      # Simulates drowsiness detection
 ├── stroke_check.py          # Simulates stroke detection
 ├── face_eye_detection.py    # OpenCV-based eye/face detection
-├── requirements.txt         # Python packages list
+├── requirements.txt         # Python code list
 ├── README.md                # Current document
 └── log.txt                  # Alert history 
 ```
